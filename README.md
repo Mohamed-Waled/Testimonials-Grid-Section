@@ -21,7 +21,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ### Links
 
 - Solution URL: [Solution URL here]()
-- Live Site URL: [Live site URL here]()
+- Live Site URL: [Live site URL here](https://mohamed-waled.github.io/Testimonials-Grid-Section/)
 
 ## My process
 
@@ -30,6 +30,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Grid
 - CSS Media Queries
 - Bootstrap
 - Normalize
