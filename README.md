@@ -20,7 +20,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Solution URL here]()
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/testimonials-grid-section-using-grid-HySARExHc)
 - Live Site URL: [Live site URL here](https://mohamed-waled.github.io/Testimonials-Grid-Section/)
 
 ## My process
